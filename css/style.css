@@ -389,6 +389,12 @@
     margin: auto;
   }
 }
+/* 1280 */
+@media (max-width: 1280px) { 
+  #main-article-section-gallery .little-dog {
+    width: 320px;
+  }
+}
 /* 1180 */
 @media (max-width: 1180px) { 
   #main-article-section-gallery .little-dog {
